@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Partners" max_length="40" name="x_8032_platform_partner" type="collection"/>
+</database>
